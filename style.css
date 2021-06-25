@@ -1,0 +1,30 @@
+body {
+  text-align:center;
+  background-repeat:no-repeat;
+ 
+}   
+p {
+  max-width: 450px;
+    margin: 25px auto;
+    font-size: 25px;
+
+    
+}
+.parallax-inner {
+
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+#About me {
+    font-family: cursive;
+    padding: 50px;
+    text-align: center;
+}
+
+img{
+    border width: auto;
+}
